@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>EditEmployee</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	 <div class="container">
+        <h2>Edit Employee</h2>
+        <form action="http://localhost:8080/EmployeeManagementSystem/EditEmployee" method="post" style="width: 95%">
+           <label for="name">EmployeeID</label>
+            <input type="text" id="id" name="id" placeholder="Enter employee ID" required>
+            
+            <label for="name">EmployeeName</label>
+            <input type="text" id="name" name="empname" placeholder="Enter employee name" >
+            
+            <label for="name">EmployeeAddress</label>
+            <input type="text" id="name" name="empaddrs" placeholder="Enter employee address" >
+            
+            <label for="name">EmployeePosition</label>
+            <input type="text" id="name" name="emppos" placeholder="Enter employee position" >
+            
+            <label for="name">EmployeeSalary</label>
+            <input type="text" id="salary" name="empsalary" placeholder="Enter employee salary" >
+            
+            
+            <button type="submit">Update</button>
+        </form>
+    </div>
+</body>
+</html>

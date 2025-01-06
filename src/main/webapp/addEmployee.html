@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>AddEmployee</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+        <h2>Add Employee</h2>
+        <form action="http://localhost:8080/EmployeeManagementSystem/AddEmployee" method="post" style="width: 95%">
+        	 <label for="name">EmployeeID</label>
+            <input type="text" id="id" name="empid" placeholder="Enter employee ID" required>
+            
+            <label for="name">EmployeeName</label>
+            <input type="text" id="name" name="empname" placeholder="Enter employee name" required>
+            
+            <label for="name">EmployeeAddress</label>
+            <input type="text" id="name" name="empaddrs" placeholder="Enter employee address" required>
+            
+            <label for="name">EmployeePosition</label>
+            <input type="text" id="name" name="emppos" placeholder="Enter employee position" required>
+            
+            <label for="name">EmployeeSalary</label>
+            <input type="text" id="salary" name="empsalary" placeholder="Enter employee salary" required>
+            
+            <button type="submit">Add</button>
+        </form>
+    </div>
+</body>
+</html>
