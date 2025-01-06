@@ -17,7 +17,7 @@ import jakarta.servlet.http.HttpSession;
 public class Employee extends HttpServlet {
 
 	String path = "com.mysql.cj.jdbc.Driver";
-	String url = "jdbc:mysql://localhost:3306/employeeManagemetSystem?user=root&password=kushalmohan@10";
+	String url = "jdbc:mysql://localhost:3306/employeeManagemetSystem?user=root&password=passwordDB";
 	String sql = "select * from employee";
 
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
