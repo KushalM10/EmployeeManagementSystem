@@ -102,6 +102,7 @@ EmployeeManagementSystem/
 
 1. **Login Page**:
    - Secure administrator login.
+   - ![Login Page](src/main/login_page.png)
 
 2. **Employee List**:
    - View all employee details with options to edit or delete.
