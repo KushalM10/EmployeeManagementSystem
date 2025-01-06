@@ -1,6 +1,6 @@
 # Employee Management System
 
-The Employee Management System is a web-based application designed to manage employee records efficiently. It provides functionality to view, add, update, and delete employee details, making the process seamless for administrators. This project is built using Java Servlets, JSP, and MySQL.
+The Employee Management System is a web-based application designed to manage employee records efficiently. It provides functionality to view, add, update, and delete employee details, making the process seamless for administrators. This project is built using Java Servlets and MySQL.
 
 ## Features
 
