@@ -36,7 +36,7 @@ The Employee Management System is a web-based application designed to manage emp
 
 ## Requirements
 
-1. JDK 11 or higher
+1. JDK 18 or higher
 2. Apache Tomcat 9 or higher
 3. MySQL 8.0 or higher
 4. A web browser
