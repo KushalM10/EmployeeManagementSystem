@@ -102,13 +102,16 @@ EmployeeManagementSystem/
 
 1. **Login Page**:
    - Secure administrator login.
-   - ![Login Page](src/main/login_page.png)
+   - ![Login Page](src/main/login.png)
 
 2. **Employee List**:
    - View all employee details with options to edit or delete.
+   - ![EmployeeList Page](src/main/EmployeeList.png)
 
 3. **Add Employee**:
    - Simple form for adding new records.
+   - ![AddEmployee](src/main/AddEmployee.png)
+   - 
 
 ## Contributors
 - Kushal(https://github.com/KushalM10)
