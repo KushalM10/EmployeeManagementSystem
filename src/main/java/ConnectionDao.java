@@ -8,6 +8,6 @@ public class ConnectionDao {
 	ResultSet rs = null;
 	
 	String path = "com.mysql.cj.jdbc.Driver";
-	String url = "jdbc:mysql://localhost:3306/employeeManagemetSystem?user=root&password=kushalmohan@10";
+	String url = "jdbc:mysql://localhost:3306/employeeManagemetSystem?user=root&password=passwordDB";
 
 }
