@@ -110,7 +110,7 @@ EmployeeManagementSystem/
    - Simple form for adding new records.
 
 ## Contributors
-- Kushal(https://github.com/your-username)
+- Kushal(https://github.com/KushalM10)
 
 ## License
 
